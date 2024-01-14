@@ -1,5 +1,0 @@
-/home/user/project/DatabaseWorker_RestAPI/client/build/CMakeFiles/rebuild_cache.dir
-/home/user/project/DatabaseWorker_RestAPI/client/build/CMakeFiles/edit_cache.dir
-/home/user/project/DatabaseWorker_RestAPI/client/build/src/CMakeFiles/rebuild_cache.dir
-/home/user/project/DatabaseWorker_RestAPI/client/build/src/CMakeFiles/edit_cache.dir
-/home/user/project/DatabaseWorker_RestAPI/client/build/src/CMakeFiles/TaskManagerClient.dir
