@@ -1,6 +1,6 @@
-#include <iostream>
+#include "server-https/server-https.h"
 
 int main() {
-  std::cout << "Hello" << std::endl;
+  ServerHTTPS serverHTTPS(443);
   return 0;
 }

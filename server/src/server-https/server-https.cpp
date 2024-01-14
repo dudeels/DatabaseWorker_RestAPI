@@ -1,6 +1,6 @@
 #include "server-https.h"
+#include <iostream>
 
-ServerHTTPS::ServerHTTPS()
-{
+ServerHTTPS::ServerHTTPS(int port) {}
 
-}
+ServerHTTPS::~ServerHTTPS() {}
